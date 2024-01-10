@@ -27,13 +27,13 @@
   <img  align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galvagniofc&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-### My Skills:
+## My Skills:
 
 <div style="display: inline_block"><br>                                                                                                                      
   <img align="center" alt="Pedro-Lua" height="55" width="55" src="https://abrudz.github.io/logos/Lua.svg">
 </div>
 
-### Game Engines:
+## Game Engines:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Roblox-Studio" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Roblox_Studio_logo_2021_present.svg/2048px-Roblox_Studio_logo_2021_present.svg.png">
