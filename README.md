@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://i.imgur.com/ATEiMYE.png" />
+<img align="center" style="margin-bottom:100px" width=1400 src="https://i.imgur.com/v2E9BO9.png" />
 &nbsp;&nbsp;&nbsp;
 
    ## Hello, I'm Pedro Galvagni, programmer and game developer
@@ -36,6 +36,7 @@
   <img align="center" alt="Pedro-Roblox-Studio" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Roblox_Studio_logo_2021_present.svg/2048px-Roblox_Studio_logo_2021_present.svg.png">
 </div>
 
-<div style="display: inline_block"><br>
-  <img height="500" width="1550" src="https://cdn.discordapp.com/attachments/1194670838469886024/1194762740368158850/logo2.gif">
-</div>
+  --------------------------------------------------------------------------------------------------------
+
+<img align="center" style="margin-bottom:100px" width=1500 src="https://i.imgur.com/hrLDjSv.png" />
+&nbsp;&nbsp;&nbsp;
