@@ -4,10 +4,10 @@
    ## Hello, I'm Pedro Galvagni, programmer and game developer
 
 
-<div style="display: inline_block"><br>     
+<div align="center" style="margin-bottom:100px">
   <a href ="https://github.com/Galvagniofc">
-  <img height="175cm" src="https://github-readme-stats.vercel.app/api?username=Galvagniofc&show_icons=true&theme=dark&include_all_commits-true&count_private=true"/>
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galvagniofc&layout=compact&langs_count=16&theme=dark"/>
+  <img  align="center" height="175"  src="https://github-readme-stats.vercel.app/api?username=Galvagniofc&show_icons=true&theme=dark&include_all_commits-true&count_private=true"/>
+  <img  align="center" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galvagniofc&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
    --------------------------------------------------------------------------------------------------------
