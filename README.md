@@ -4,10 +4,9 @@
    ## Hello, I'm Pedro Galvagni, programmer and game developer
 
 
-<div align="center" style="margin-bottom:100px">
+<div align="left" style="margin-bottom:100px">
   <a href ="https://github.com/Galvagniofc">
-  <img  align="center" height="155"  src="https://github-readme-stats.vercel.app/api?username=Galvagniofc&show_icons=true&theme=dark&include_all_commits-true&count_private=true"/>
-  <img  align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galvagniofc&layout=compact&langs_count=16&theme=dark"/>
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Galvagniofc&show_icons=true&theme=dark&include_all_commits-true&count_private=true"/>
 </div>
 
    --------------------------------------------------------------------------------------------------------
@@ -23,6 +22,10 @@
 
   --------------------------------------------------------------------------------------------------------
 
+<div align="left" style="margin-bottom:100px">
+  <a href ="https://github.com/Galvagniofc">
+  <img  align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galvagniofc&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 ### My Skills:
 
