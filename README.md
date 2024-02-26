@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=1400 src="https://i.imgur.com/v2E9BO9.png" />
+<img align="center" style="margin-bottom:100px" width=1400 src="https://i.imgur.com/AjgxY6x.png" />
 &nbsp;&nbsp;&nbsp;
 
    ## Hello, I'm Pedro Galvagni, programmer and game developer
