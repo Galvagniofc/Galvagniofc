@@ -1,7 +1,7 @@
-<img align="center" style="margin-bottom:100px" width=1400 src="https://i.imgur.com/AjgxY6x.png" />
+<img align="center" style="margin-bottom:100px" width=1000 src="https://i.imgur.com/hrLDjSv.png" />
 &nbsp;&nbsp;&nbsp;
 
-   ## Hello, I'm Pedro Galvagni, programmer and game developer
+   ## Hello, I'm Galvagni, programmer and game developer
 
 
 <div align="left" style="margin-bottom:100px">
@@ -13,8 +13,6 @@
 
 <div> 
   <a href="https://www.youtube.com/channel/UCxfevBwKBijUGlnlxdMg4QA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/pedrogalvagnii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/Y2KHwwwd8b" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:contatogalvagni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
@@ -41,5 +39,5 @@
 
   --------------------------------------------------------------------------------------------------------
 
-<img align="center" style="margin-bottom:100px" width=1500 src="https://i.imgur.com/hrLDjSv.png" />
+<img align="center" style="margin-bottom:100px" width=1000 src="https://i.imgur.com/hrLDjSv.png" />
 &nbsp;&nbsp;&nbsp;
